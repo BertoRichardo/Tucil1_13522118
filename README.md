@@ -22,7 +22,7 @@ Untuk dapat menjalankan program, diperlukan
 Untuk menjalankan program, 
 1. pada *root directory*, jalankan run.bat:
 ```
-cd bin
+cd .\src\bin\
 ```
 2. kemudian, jalankan 
 ```
